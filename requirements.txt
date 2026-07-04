@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.8.0.0
+numpy>=1.21.0
+PyQt6>=6.4.0
+psutil>=5.9.0
