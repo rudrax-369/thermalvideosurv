@@ -42,12 +42,7 @@ This system runs on Python 3.8 or higher.
 
 The default stream parameters are configured for your **CP Plus CCTV/NVR** system.
 
-Inside `main.py`, the default settings attempt to establish a TCP-transported RTSP capture stream at:
-* **IP Address:** `192.168.1.245`
-* **Username:** `admin`
-* **Password:** `admin123`
-* **Port:** `554`
-* **Stream Details:** Channel `1`, Subtype `0`
+
 
 To customize this or connect to Dahua or Hikvision streams, you can pass command line arguments or modify the defaults directly in `main.py`.
 
